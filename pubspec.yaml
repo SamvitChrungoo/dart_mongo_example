@@ -1,0 +1,15 @@
+name: dart_mongo_example
+description: A command-line application that talks to a MongoDB database.
+version: 1.0.0
+
+author: Samvit Chrungoo
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  mongo_dart: ^0.4.3
+  http_server: ^0.9.8+1
+
+dev_dependencies:
+  pedantic: ^1.9.2
