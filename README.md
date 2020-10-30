@@ -38,5 +38,6 @@ dart main.dart
 ```
 
 ```bash
-You can use the GET, POST, PUT, DELETE methods while making the request to the localhost and perform the basic CRUD operations on your database locally. (using the /people endpoint)
+You can use the GET, POST, PUT, DELETE methods while making the request to the localhost 
+and perform the basic CRUD operations on your database locally. (using the /people endpoint)
 ```
